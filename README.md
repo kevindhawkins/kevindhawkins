@@ -1,12 +1,11 @@
 ## 👋 Hi, I'm Kevin 
 
-I'm a Sr Director of Engineering in the [Adreno GPU SW](https://developer.qualcomm.com/software/adreno-gpu-sdk) team at [Qualcomm](https://qualcomm.com). I'm also the admin for [GameDev.net](https://gamedev.net).
+I'm a Sr Director of Engineering in the Adreno GPU software group at [Qualcomm](https://qualcomm.com). I'm also the admin for [GameDev.net](https://gamedev.net).
 
-Ex-serious games/simulations/VR, now GPU developer tools. Also a tech author, golfer, sailor, trader, maker, and athlete.
+Ex-serious games/simulations/VR, now GPU Developer Tools & Gaming. Also a tech author, golfer, sailor, trader, maker, and athlete.
 
 💬 Ask me about any of the above.
 
-<a href="https://twitter.com/khawkins" target="_blank"><img src="https://img.shields.io/twitter/follow/khawkins?label=Follow" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/kevindhawkins" target="_blank"><img src="https://img.shields.io/badge/kevindhawkins-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <!--
