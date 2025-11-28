@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Kevin 
 
-I'm a Sr Director of Engineering in the Adreno GPU software group at [Qualcomm](https://qualcomm.com). I'm also the admin for [GameDev.net](https://gamedev.net).
+I'm a Sr Director of Engineering for Gaming and Developer Tools at [Qualcomm](https://qualcomm.com). I'm also the admin for [GameDev.net](https://gamedev.net).
 
-Ex-serious games/simulations/VR, now GPU Developer Tools & Gaming. Also a tech author, golfer, sailor, trader, maker, and athlete.
+Ex-serious games/simulations/VR. Also a tech author, golfer, sailor, trader, maker, athlete.
 
 💬 Ask me about any of the above.
 
